@@ -1,8 +1,8 @@
 {
-  "name": "youtube-react",
+  "name": "react-dummy",
   "homepage": "https://highhimanshu.github.io/react-dummy",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",
     "@testing-library/jest-dom": "^5.16.4",
